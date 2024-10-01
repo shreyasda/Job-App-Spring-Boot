@@ -2,6 +2,8 @@
 
 This project is a **Spring Boot** application implementing CRUD (Create, Read, Update, Delete) operations for managing job applications. This is the first step towards transitioning the project from a REST API architecture to Microservices.
 
+### Please refer to this document for a Step-by-Step guide: <a href="https://readme.com/](https://docs.google.com/document/d/19_K8C6EafosvmKF0Ai51USd0TGTtyStVeNGELKneHMw/edit?usp=sharing" target="_blank">Document</a>
+
 ## Project Overview
 
 The **Job Application Project** allows users to perform CRUD operations on job applications. The main features include:
